@@ -64,15 +64,40 @@ Show progress and milestones.
 Improve team coordination.
 
 Qn8: What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Core Issues Addressed:
+Lack of Task Prioritization – Remote teams struggle to manage workloads efficiently.
+Missed Deadlines & Poor Tracking – Many teams fail to meet project deadlines due to poor scheduling.
+Inefficient Communication – Switching between multiple tools (Slack, Email, Notion) reduces efficiency.
+Lack of Productivity Insights – Managers struggle to measure team efficiency without data-driven insights.
+
+Why These Issues Matter:
+Remote teams need better coordination to meet deadlines.
+Startups & SMEs need cost-effective tools with automation.
+Project managers require AI-driven insights to make data-backed decisions.
 
 Qn9:How can clearly defining the problem help in developing a more effective software solution?
 Ensures development stays focused.
 Helps prioritize features.
 Prevents wasted resources on unnecessary functionality.
-How would you describe your software solution in a way that captures its essence without diving into technical details?
-What are the main features or functionalities that make your software stand out?
-What data is available regarding the market size and growth potential for your software?
-How can understanding market trends inform your software’s positioning and development?
+
+Qn10: How would you describe your software solution in a way that captures its essence without diving into technical details?
+TaskFlow is an AI-powered smart task manager designed to help remote teams streamline workflow, meet deadlines, and enhance collaboration. It automates task prioritization, tracks progress in real-time, and provides intelligent productivity insights—ensuring teams work smarter, not harder.
+
+Qn11:What are the main features or functionalities that make your software stand out?
+
+✅ AI-Powered Task Prioritization – Dynamically ranks tasks based on urgency & workload.
+✅ Smart Deadline Tracking – Alerts users before bottlenecks occur.
+✅ Collaboration Hub – Integrated messaging, file sharing, and third-party tool sync.
+✅ Visual Project Management – Gantt charts & Kanban boards for easy tracking.
+✅ Performance Analytics – AI-driven insights into team productivity.
+
+Qn12: What data is available regarding the market size and growth potential for your software?
+📊 Market Insights:
+The global project management software market is projected to reach $15.08 billion by 2028, growing at a CAGR of 10.67%.
+The remote work collaboration market is also expanding, with 80% of companies adopting hybrid or fully remote models.
+Competitors like Trello and Asana focus on task management but lack AI-driven automation—creating a gap TaskFlow can fill.
+
+Qn13:How can understanding market trends inform your software’s positioning and development?
 Helps align product with current demands.
 Identifies opportunities for differentiation.
 Ensures long-term relevance and scalability.
